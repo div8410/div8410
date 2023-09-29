@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @div8410
+- 👀 I’m interested in tech stuffs,open source and larning more about the tech world..
+- 🌱 I’m currently learning DSA IN JAVA AND MACHINE LEARNING IN PYTHON
+- 💞️ I’m looking to collaborate on OPEN SOURCE
+- 📫 How to reach me BY MY EMAIL thakurdivy84@gmail.com
